@@ -1,4 +1,4 @@
-package com.aniketjain.weatherapp.location;
+package com.pruthvi.weatherapp.location;
 
 public class LocationCord {
 

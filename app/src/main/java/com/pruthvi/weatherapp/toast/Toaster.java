@@ -1,4 +1,4 @@
-package com.aniketjain.weatherapp.toast;
+package com.pruthvi.weatherapp.toast;
 
 import android.content.Context;
 

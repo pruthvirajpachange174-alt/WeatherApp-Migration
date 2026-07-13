@@ -6,7 +6,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.aniketjain.weatherapp"
+        applicationId "com.pruthvi.weatherapp"
         minSdk 19
         targetSdk 33
         versionCode 5

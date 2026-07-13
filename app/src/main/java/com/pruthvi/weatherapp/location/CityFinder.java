@@ -1,4 +1,4 @@
-package com.aniketjain.weatherapp.location;
+package com.pruthvi.weatherapp.location;
 
 import android.content.Context;
 import android.location.Address;

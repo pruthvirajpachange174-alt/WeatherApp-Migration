@@ -1,6 +1,6 @@
-package com.aniketjain.weatherapp.url;
+package com.pruthvi.weatherapp.url;
 
-import com.aniketjain.weatherapp.location.LocationCord;
+import com.pruthvi.weatherapp.location.LocationCord;
 
 public class URL {
 
